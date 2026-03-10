@@ -1,18 +1,42 @@
 [
-  {"name": "Premium Cotton Shirt", "price": 1200, "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Men’s Classic T-Shirt", "price": 800, "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Elegant Formal Shirt", "price": 1500, "image": "https://images.unsplash.com/photo-1581579185480-626f37d9e50b?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Casual Polo Shirt", "price": 1000, "image": "https://images.unsplash.com/photo-1562158070-8a3c17e96d95?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Trendy Hoodie", "price": 2000, "image": "https://images.unsplash.com/photo-1600180758895-c1bcd905cf7c?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Classic Jeans", "price": 1800, "image": "https://images.unsplash.com/photo-1585386959984-a415522fe681?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Summer Shorts", "price": 900, "image": "https://images.unsplash.com/photo-1593032465170-d6f95f01019e?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Leather Jacket", "price": 3200, "image": "https://images.unsplash.com/photo-1582053432404-89b38b5f0e45?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Casual Sneakers", "price": 2200, "image": "https://images.unsplash.com/photo-1585386959985-baf34916b2b0?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Formal Shoes", "price": 2500, "image": "https://images.unsplash.com/photo-1570029618250-8a0e0d9b4d64?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Winter Sweater", "price": 1600, "image": "https://images.unsplash.com/photo-1603039220056-f1c66e802d06?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Sport Cap", "price": 500, "image": "https://images.unsplash.com/photo-1570362041385-67679c7fcf18?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Backpack", "price": 1800, "image": "https://images.unsplash.com/photo-1602810313370-f7d1b2369c39?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Casual Belt", "price": 600, "image": "https://images.unsplash.com/photo-1618354695026-71628d0ff5d7?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Formal Tie", "price": 700, "image": "https://images.unsplash.com/photo-1556909210-82eb3d9e85de?auto=format&fit=crop&w=500&q=80"},
-  {"name": "Sunglasses", "price": 1200, "image": "https://images.unsplash.com/photo-1600181959035-3cb30f52cd45?auto=format&fit=crop&w=500&q=80"}
+  {
+    "name": "Blue Checkered Shirt",
+    "price": 1200,
+    "image": "https://i.ibb.co/1r9QXzC/blue-checkered-shirt.png"
+  },
+  {
+    "name": "Black Palm Shirt",
+    "price": 1500,
+    "image": "https://i.ibb.co/2FJpYHg/black-palm-shirt.png"
+  },
+  {
+    "name": "Grey Formal Shirt",
+    "price": 1800,
+    "image": "https://i.ibb.co/TLz7k1c/grey-formal-shirt.png"
+  },
+  {
+    "name": "Light Grey T-Shirt",
+    "price": 900,
+    "image": "https://i.ibb.co/BKcVZnF/light-grey-tshirt.png"
+  },
+  {
+    "name": "Blue Striped Shirt",
+    "price": 1600,
+    "image": "https://i.ibb.co/vdR3TgK/blue-striped-shirt.png"
+  },
+  {
+    "name": "Red & Green Checkered Shirt",
+    "price": 1400,
+    "image": "https://i.ibb.co/bm3PW2c/red-green-checkered-shirt.png"
+  },
+  {
+    "name": "Black Formal Shirt",
+    "price": 1700,
+    "image": "https://i.ibb.co/6s9Dcvc/black-formal-shirt.png"
+  },
+  {
+    "name": "Plain Black T-Shirt",
+    "price": 800,
+    "image": "https://i.ibb.co/PrKK8Tf/plain-black-tshirt.png"
+  }
 ]
