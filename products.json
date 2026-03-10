@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Premium Cotton Shirt",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+  },
+  {
+    "name": "Men’s Classic T-Shirt",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+  },
+  {
+    "name": "Elegant Formal Shirt",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1581579185480-626f37d9e50b"
+  },
+  {
+    "name": "Casual Polo Shirt",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1562158070-8a3c17e96d95"
+  }
+]
