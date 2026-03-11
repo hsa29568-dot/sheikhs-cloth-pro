@@ -2,41 +2,19 @@
   {
     "name": "Blue Checkered Shirt",
     "price": 1200,
-    "image": "https://i.ibb.co/1r9QXzC/blue-checkered-shirt.png"
+    "image": "https://i.ibb.co/example1.jpg",
+    "description": "A premium cotton shirt with a classic blue checkered pattern. Comfortable and stylish."
   },
   {
     "name": "Black Palm Shirt",
     "price": 1500,
-    "image": "https://i.ibb.co/2FJpYHg/black-palm-shirt.png"
+    "image": "https://i.ibb.co/example2.jpg",
+    "description": "A modern black shirt with palm design. Perfect for summer outings and vacations."
   },
   {
     "name": "Grey Formal Shirt",
     "price": 1800,
-    "image": "https://i.ibb.co/TLz7k1c/grey-formal-shirt.png"
-  },
-  {
-    "name": "Light Grey T-Shirt",
-    "price": 900,
-    "image": "https://i.ibb.co/BKcVZnF/light-grey-tshirt.png"
-  },
-  {
-    "name": "Blue Striped Shirt",
-    "price": 1600,
-    "image": "https://i.ibb.co/vdR3TgK/blue-striped-shirt.png"
-  },
-  {
-    "name": "Red & Green Checkered Shirt",
-    "price": 1400,
-    "image": "https://i.ibb.co/bm3PW2c/red-green-checkered-shirt.png"
-  },
-  {
-    "name": "Black Formal Shirt",
-    "price": 1700,
-    "image": "https://i.ibb.co/6s9Dcvc/black-formal-shirt.png"
-  },
-  {
-    "name": "Plain Black T-Shirt",
-    "price": 800,
-    "image": "https://i.ibb.co/PrKK8Tf/plain-black-tshirt.png"
+    "image": "https://i.ibb.co/example3.jpg",
+    "description": "Elegant grey formal shirt suitable for office or formal events."
   }
 ]
